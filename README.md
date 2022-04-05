@@ -47,4 +47,10 @@ Define play, pause, and other music player functions
   <img src="https://i.postimg.cc/FKBnDNQr/Screenshot-934.png">
 </a>
 </p>
-[![Screenshot-934.png](https://i.postimg.cc/FKBnDNQr/Screenshot-934.png)](https://postimg.cc/Z96cqkR2)
+
+<p align="center">
+<a href = "https://github.com/Abhijit-Barik01">
+  <img src="https://i.postimg.cc/d34CjQzn/Screenshot-936.png">
+</a>
+</p>
+
