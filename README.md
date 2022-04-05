@@ -14,7 +14,7 @@ Unlike the Tkinter library, we are required to install the Pygame library.
 
 
 
-####  Download Python MP3 Player Project and set the virtual env
+###  Download Python MP3 Player Project and set the virtual env
 Please download the source code of python mp3 player: MP3 Music Player Python Code
 
 After doing this we are all set to start this python project, you can use any IDE of your choice.
