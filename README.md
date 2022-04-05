@@ -10,11 +10,11 @@ A basic understanding of Tkinter widgets would also be required, but don’t wor
 
 Unlike the Tkinter library, we are required to install the Pygame library.
 
-Please run following command in your command prompt or terminal to install pygame
 
 
 
-Download Python MP3 Player Project
+
+####  Download Python MP3 Player Project and set the virtual env
 Please download the source code of python mp3 player: MP3 Music Player Python Code
 
 After doing this we are all set to start this python project, you can use any IDE of your choice.
