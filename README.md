@@ -47,3 +47,4 @@ Define play, pause, and other music player functions
   <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=Abhijit-Barik01&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
 </a>
 </p>
+[![Screenshot-934.png](https://i.postimg.cc/FKBnDNQr/Screenshot-934.png)](https://postimg.cc/Z96cqkR2)
