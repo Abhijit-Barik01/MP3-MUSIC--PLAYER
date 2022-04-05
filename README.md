@@ -25,7 +25,7 @@ Create the project layout
 Define play, pause, and other music player functions
 
 
-1. Import important libraries
+## 1. Import important libraries
 
 from tkinter import*
 from tkinter import filedialog #ttk widget
@@ -34,8 +34,8 @@ import time
 from mutagen.mp3 import MP3 #pip install mutagen
 
 
-2. Create the overall layout of python mp3 player
+## 2. Create the overall layout of python mp3 player
 
 
 
-3. Create music player functions
+## 3. Create music player functions
